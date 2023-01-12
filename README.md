@@ -1,9 +1,9 @@
 # **T11 - Database Model Handler**
 
 ## **Descripton**
-This is a component that is part of the Dentistimo distributed system. More information about the whole system can be found [here](https://git.chalmers.se/courses/dit355/dit356-2022/t-11/t11-project).
+This is a component that is part of the Dentistimo distributed system. More information about the whole system can be found [here](https://github.com/T-11-Dentistimo/T11---Project-documentation).
 
-This component is connected to the Mongo database and it is the only component in this distributed system that will persist entries in it. It works in close collaboration with the [Booking validator](https://git.chalmers.se/courses/dit355/dit356-2022/t-11/t11-booking-validator), receiving bookings for dental appointments to be saved in the database, and the [Web application](https://git.chalmers.se/courses/dit355/dit356-2022/t-11/t11-web-application), publishing information about the dentist clinics. 
+This component is connected to the Mongo database and it is the only component in this distributed system that will persist entries in it. It works in close collaboration with the [Booking validator](https://github.com/T-11-Dentistimo/T11-Booking-Validator), receiving bookings for dental appointments to be saved in the database, and the [Web application](https://github.com/T-11-Dentistimo/T11-Web-Application), publishing information about the dentist clinics. 
 
 
 ## **Responsibilities**
